@@ -10,7 +10,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url("../img/bg-masthead.jpg");
+    background: url("../../img/bg-masthead.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -155,19 +155,19 @@ article {
     }
 
     .flex-box:nth-of-type(2) {
-        background: url(../img/bg-showcase-1.jpg);
+        background: url(../../img/bg-showcase-1.jpg);
         background-size: cover;
         background-position: center;
     }
 
     .flex-box:nth-of-type(3) {
-        background: url(../img/bg-showcase-2.jpg);
+        background: url(../../img/bg-showcase-2.jpg);
         background-size: cover;
         background-position: center;
     }
 
     .flex-box:nth-of-type(6) {
-        background: url(../img/bg-showcase-3.jpg);
+        background: url(../../img/bg-showcase-3.jpg);
         background-size: cover;
         background-position: center;
     }
